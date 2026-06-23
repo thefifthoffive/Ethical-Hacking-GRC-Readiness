@@ -1,4 +1,5 @@
 # Ethical-Hacking-GRC-Readiness
+<<<<<<< HEAD
 
 ## Executive Summary
 
@@ -17,3 +18,6 @@ Analysis of the Department of Defense Vulnerability Disclosure Program and its S
 
 Author: Daniel Stewart
 Course: IT-157
+=======
+Project for IT 157
+>>>>>>> 651e1964a472b6feea1df979de116f1cacc0998d
